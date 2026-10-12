@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+# Generated model file (pickle) - re-create by running group_pipeline.ipynb
+results/outputs/best_model.joblib
